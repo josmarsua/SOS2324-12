@@ -2,6 +2,17 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/gti-sos/SOS2324-12/badge.svg)](https://snyk.io/test/github/gti-sos/SOS2324-12)
 [![codecov](https://codecov.io/gh/gti-sos/SOS2324-12/graph/badge.svg?token=kChmAsmdM1)](https://codecov.io/gh/gti-sos/SOS2324-12)
 
+- **How to run**: 
+```
+git clone https://github.com/josmarsua/SOS2324-12/
+```
+Once the repository is cloned, open Visual Studio Code and run the following (you'll need to install nodeJS and npm if you don't have it yet):
+```
+npm install;
+cd front; npm install; npm run build; cd ..;
+npm start;
+```
+
 - **Team**
   - [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue)
   - [Borja Flores Avecilla](https://github.com/borfloave)

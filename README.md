@@ -1,8 +1,7 @@
 ## SOS2324-12
 [![Known Vulnerabilities](https://snyk.io/test/github/gti-sos/SOS2324-12/badge.svg)](https://snyk.io/test/github/gti-sos/SOS2324-12)
-[![codecov](https://codecov.io/gh/gti-sos/SOS2324-12/graph/badge.svg?token=kChmAsmdM1)](https://codecov.io/gh/gti-sos/SOS2324-12)
 
-**Demo Video**: [](https://www.youtube.com/watch?v=GK9vAe1gWFU&ab_channel=Jos%C3%A9Mart%C3%ADnezSu%C3%A1rez)
+**Demo Video**: [Link to YouTube](https://www.youtube.com/watch?v=GK9vAe1gWFU&ab_channel=Jos%C3%A9Mart%C3%ADnezSu%C3%A1rez)
 - **How to run**: 
 ```
 git clone https://github.com/josmarsua/SOS2324-12/
